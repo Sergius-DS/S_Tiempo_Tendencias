@@ -1,4 +1,4 @@
-# S_Tiempo_Tendencias
+# Descripción
 
 Este Repositorio contiene Series de Tiempo y análisis respectivos a ello.
 
