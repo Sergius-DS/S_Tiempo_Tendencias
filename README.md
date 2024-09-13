@@ -46,4 +46,4 @@
 
 Creado por,
 
-Sergio Riveraa Bustamante
+Sergio Rivera Bustamante
