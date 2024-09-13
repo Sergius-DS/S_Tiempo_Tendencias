@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Series de Tiempo y Tendencias</title>
+  <title>Series de Tiempo y Tendencias</title>
+</head>
 <body>
   <details>
     <summary>Click to expand</summary>
