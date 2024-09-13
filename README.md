@@ -1,7 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Series de Tiempo y Tendencias</title>
+  Series de Tiempo y Tendencias
+  
+  Time Series and Trends
+  
 </head>
 <body>
   <details>
