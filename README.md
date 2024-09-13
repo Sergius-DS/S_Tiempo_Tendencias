@@ -27,16 +27,10 @@
         }
     </style>
 </head>
-<body>
 
     <details>
         <summary>Click to expand</summary>
         <p>This Repository contains Time Series and analysis related to it.</p>
-    </details>
-
-    <details>
-        <summary>Another expander</summary>
-        <p>This is another expander with different content.</p>
     </details>
 
 </body>
