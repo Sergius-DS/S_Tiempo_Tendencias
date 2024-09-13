@@ -25,6 +25,11 @@
     p {
       margin: 5px 0;
       font-size: 14px;
+      display: none; /* Hide content by default */
+    }
+
+    details[open] p {
+      display: block; /* Show content when expanded */
     }
   </style>
 </head>
@@ -41,9 +46,3 @@
   </details>
 </body>
 </html>
-
-
-
-Creado por,
-
-Sergio Rivera Bustamante
